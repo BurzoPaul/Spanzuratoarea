@@ -1,0 +1,16 @@
+C:\Faculta An 3\Sem2\II\Lab1\Spanzuratoarea\Spanzuratoarea\bin\Debug\net8.0-windows\Spanzuratoarea.exe
+C:\Faculta An 3\Sem2\II\Lab1\Spanzuratoarea\Spanzuratoarea\bin\Debug\net8.0-windows\Spanzuratoarea.deps.json
+C:\Faculta An 3\Sem2\II\Lab1\Spanzuratoarea\Spanzuratoarea\bin\Debug\net8.0-windows\Spanzuratoarea.runtimeconfig.json
+C:\Faculta An 3\Sem2\II\Lab1\Spanzuratoarea\Spanzuratoarea\bin\Debug\net8.0-windows\Spanzuratoarea.dll
+C:\Faculta An 3\Sem2\II\Lab1\Spanzuratoarea\Spanzuratoarea\bin\Debug\net8.0-windows\Spanzuratoarea.pdb
+C:\Faculta An 3\Sem2\II\Lab1\Spanzuratoarea\Spanzuratoarea\obj\Debug\net8.0-windows\Spanzuratoarea.Form1.resources
+C:\Faculta An 3\Sem2\II\Lab1\Spanzuratoarea\Spanzuratoarea\obj\Debug\net8.0-windows\Spanzuratoarea.csproj.GenerateResource.cache
+C:\Faculta An 3\Sem2\II\Lab1\Spanzuratoarea\Spanzuratoarea\obj\Debug\net8.0-windows\Spanzuratoarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculta An 3\Sem2\II\Lab1\Spanzuratoarea\Spanzuratoarea\obj\Debug\net8.0-windows\Spanzuratoarea.AssemblyInfoInputs.cache
+C:\Faculta An 3\Sem2\II\Lab1\Spanzuratoarea\Spanzuratoarea\obj\Debug\net8.0-windows\Spanzuratoarea.AssemblyInfo.cs
+C:\Faculta An 3\Sem2\II\Lab1\Spanzuratoarea\Spanzuratoarea\obj\Debug\net8.0-windows\Spanzuratoarea.csproj.CoreCompileInputs.cache
+C:\Faculta An 3\Sem2\II\Lab1\Spanzuratoarea\Spanzuratoarea\obj\Debug\net8.0-windows\Spanzuratoarea.dll
+C:\Faculta An 3\Sem2\II\Lab1\Spanzuratoarea\Spanzuratoarea\obj\Debug\net8.0-windows\refint\Spanzuratoarea.dll
+C:\Faculta An 3\Sem2\II\Lab1\Spanzuratoarea\Spanzuratoarea\obj\Debug\net8.0-windows\Spanzuratoarea.pdb
+C:\Faculta An 3\Sem2\II\Lab1\Spanzuratoarea\Spanzuratoarea\obj\Debug\net8.0-windows\Spanzuratoarea.genruntimeconfig.cache
+C:\Faculta An 3\Sem2\II\Lab1\Spanzuratoarea\Spanzuratoarea\obj\Debug\net8.0-windows\ref\Spanzuratoarea.dll
